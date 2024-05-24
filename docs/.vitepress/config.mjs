@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/',
+  base: '/profile',
   siteTitle: 'Andri Rahman Hakim / Freelance Web Developer',
   lang: 'en-US',
   title: "Andri Rahman Hakim",
