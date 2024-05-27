@@ -15,11 +15,9 @@
 - Git, GitHub, GitLab, Bitbucket 
 - Trello, Asana
 - Slack, Zoom, Microsoft Teams, Google Meet
-- Google Drive, Microsoft Office
-- VSCode, Notepad++
+- Google Drive, Microsoft Office, Microsoft OneDrive
 - Windows, Ubuntu Linux
-- vim
-- Diagram.net
-- PHP My Admin, HeidiSQL
-- Putty, WinSCP
-- Canva
+- VSCode, Notepad++
+- PHPMyAdmin, HeidiSQL
+- vim, Putty, WinSCP
+- Diagram.net, Canva, Photoshop
