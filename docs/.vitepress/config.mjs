@@ -29,7 +29,7 @@ export default defineConfig({
       { text: 'Educations', link: '/education' },
       { text: 'Projects', link: '/project' },
       { text: 'Skills & Tools', link: '/skill-&-tools' },
-      { text: 'Friends', link: '/friend' },
+      // { text: 'Friends', link: '/friend' },
       { text: 'Contact', link: '/contact' }
     ],
 
@@ -53,8 +53,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Built using <a href="https://vitepress.dev" target="_blank">VitePress</a>',
-      copyright: 'Copyright © 2024 <a href="https://github.com/arhakim" target="_blank">Andri Rahman Hakim</a>'
+      // message: 'Built using <a href="https://vitepress.dev" target="_blank">VitePress</a>',
+      copyright: 'Copyright © 2025 <a href="https://github.com/arhakim" target="_blank">Andri Rahman Hakim</a>'
     }
   }
 })
