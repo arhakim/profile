@@ -1,11 +1,10 @@
 # 💼 Experience
 
-<!-- ## :ghost: Freelance Web Developer <Badge type="danger">Current</Badge>
-#Yes, for now I decided to become a freelancer again because:
-#- Flexibility of working hours
-#- Job variations
-#- Learning new skills
-#- Work life balance -->
+## 👻 Freelance Web Developer <Badge type="danger">Current</Badge>
+- Actually, currently I still working in **PT. Capture Data Teknologi** but as a freelancer (part time working hours)
+- Continuing developing the previous platforms
+- Learn new tech and upgrading skills
+
 ## Senior Web Developer - PT. Capture Data Teknologi | April 2021 - April 2024
 - Guide the team in developing features for the Online Assessment Platform, with a focus on boosting user satisfaction and engagement.
 - Work together with teams across functions to ensure a consistent brand experience on all platforms.
@@ -16,7 +15,7 @@
 - Collaborating closely with psychology teams to ensure the platform aligns with required specifications and user experiences.
 
 ## Freelance Web Developer | Jul 2013 - Sept 2020
-- Actively involved in the development of websites for various clients, such as: DeTectSolution (Bandung), Jejo Digital (Singapore), BiruTekno Digital (Bandung), Imajiku (Yogyakarta), AksiKreasi (Jakarta) and several personal projects.
+- Actively involved in the development of websites for various clients, such as: _DeTectSolution_ (Bandung), _Jejo Digital_ (Singapore), _BiruTekno Digital_ (Bandung), _Imajiku_ (Yogyakarta), _AksiKreasi_ (Jakarta) and several personal projects.
 - Responsible for project timeline management, task breakdown, and client delivery.
 - Continually enhancing skills in web development.
 
