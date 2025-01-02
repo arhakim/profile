@@ -7,6 +7,8 @@ export default defineConfig({
   base: baseUrl,
   siteTitle: 'Andri Rahman Hakim / Freelance Web Developer',
   lang: 'en-US',
+  lastUpdated: true,
+  cleanUrls: true,
   title: "Andri Rahman Hakim",
   description: "Freelance fullstack web developer, UI UX, Jasa Pembuatan Web, Gombong, Kebumen",
   head: [
@@ -56,5 +58,8 @@ export default defineConfig({
       // message: 'Built using <a href="https://vitepress.dev" target="_blank">VitePress</a>',
       copyright: 'Copyright © 2025 <a href="https://github.com/arhakim" target="_blank">Andri Rahman Hakim</a>'
     }
+  },
+  sitemap: {
+    hostname: 'https://arhakim.github.io/profile'
   }
 })
