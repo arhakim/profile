@@ -1,8 +1,7 @@
 # 💼 Experience
 
-## 👻 Freelance Web Developer <Badge type="danger">Current</Badge>
-- Actually, currently I still working in **PT. Capture Data Teknologi** but as a freelancer (part time working hours)
-- Continuing developing the previous platforms
+## 🔥 Freelance Web Developer <Badge type="danger">Current</Badge>
+- I decided to return to freelancing to gain the time flexibility needed to complete my bachelor's degree, while continuing to leverage the full-stack expertise I've developed over years in the web development industry
 - Learn new tech and upgrading skills
 
 ## Senior Web Developer - PT. Capture Data Teknologi | April 2021 - April 2024

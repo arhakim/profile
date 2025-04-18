@@ -1,5 +1,10 @@
 # 🎓 Education
 
+## Bachelor Of Information System - Universitas Terbuka | 2025 - present
+- Continue learning formal education in the field of Information System 
+- Focus  on  courses:  System  Analysis  and  Design,  Advanced  Database  Management,  and  Enterprise  System Integration 
+- Take  this  education  while  staying  active  as  a  professional  to  complete  practical  experiences  with  strong theoretical foundations
+
 ## Diploma Of Management Information System - Politeknik Telkom, Bandung | 2010
 - Graduate with a score of 3.15
 - Specialized in Management Information Systems

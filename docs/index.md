@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Andri Rahman Hakim"
-  text: "I build things for the web."
+  text: "Crafting scalable web solutions with passion and expertise."
   tagline: I am freelance fullstack web developer which is passionate build various web application ranging from full website development to small programming jobs.
   image: /logo.png
 ---
