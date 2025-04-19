@@ -1,9 +1,5 @@
 # 💼 Experience
 
-## 🔥 Freelance Web Developer <Badge type="danger">Current</Badge>
-- I decided to return to freelancing to gain the time flexibility needed to complete my bachelor's degree, while continuing to leverage the full-stack expertise I've developed over years in the web development industry
-- Learn new tech and upgrading skills
-
 ## Senior Web Developer - PT. Capture Data Teknologi | April 2021 - April 2024
 - Guide the team in developing features for the Online Assessment Platform, with a focus on boosting user satisfaction and engagement.
 - Work together with teams across functions to ensure a consistent brand experience on all platforms.
