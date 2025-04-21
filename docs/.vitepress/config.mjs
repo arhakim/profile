@@ -10,13 +10,13 @@ export default defineConfig({
   title: "Andri Rahman Hakim",
   description: "Freelance fullstack web developer, UI UX, Jasa Pembuatan Web, Gombong, Kebumen",
   head: [
-    ['link', { rel: 'icon', href: '/profile/favicon.png' }],
+    ['link', { rel: 'icon', href: '/favicon.png' }],
     ['meta', { name: 'keywords', content: 'Andri Rahman Hakim, Arhakim, Full Stack, Web Developer, UI UX, Jasa Pembuatan Web, Gombong, Kebumen' }],
     ['meta', { name: 'author', content: 'Andri Rahman Hakim' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
     // ['meta', { property: 'og:url', content: 'https://www.ar-hakim.com' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:image', content: '/profile/logo.png' }],
+    ['meta', { property: 'og:image', content: '/logo.png' }],
     ['meta', { property: 'og:title', content: 'Andri Rahman Hakim / Freelance Full Stack Web Developer' }],
     ['meta', { property: 'og:site_name', content: 'Andri Rahman Hakim / Freelance Full Stack Web Developer' }],
     ['meta', { property: 'og:description', content: 'Freelance fullstack web developer, UI UX, Jasa Pembuatan Web, Gombong, Kebumen' }]
