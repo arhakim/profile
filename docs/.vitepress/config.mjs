@@ -1,14 +1,17 @@
 import { defineConfig } from 'vitepress'
 
+const GA_TAG_ID = 'G-SH0F5PRVDD' // Google Analytics Tracking ID
+const currentDate = new Date()
+const currentYear = currentDate.getFullYear()
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  siteTitle: 'Andri Rahman Hakim / Freelance Web Developer',
+  siteTitle: 'Andri Rahman Hakim / Fullstack Web Developer',
   lang: 'en-US',
   lastUpdated: true,
   cleanUrls: true,
   title: "Andri Rahman Hakim",
-  description: "Freelance fullstack web developer, UI UX, Jasa Pembuatan Web, Gombong, Kebumen",
+  description: "Fullstack web developer, UI UX, Jasa Pembuatan Web, Gombong, Kebumen",
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
     ['meta', { name: 'keywords', content: 'Andri Rahman Hakim, Arhakim, Full Stack, Web Developer, UI UX, Jasa Pembuatan Web, Gombong, Kebumen' }],
@@ -17,9 +20,17 @@ export default defineConfig({
     // ['meta', { property: 'og:url', content: 'https://www.ar-hakim.com' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:image', content: '/logo.png' }],
-    ['meta', { property: 'og:title', content: 'Andri Rahman Hakim / Freelance Full Stack Web Developer' }],
-    ['meta', { property: 'og:site_name', content: 'Andri Rahman Hakim / Freelance Full Stack Web Developer' }],
-    ['meta', { property: 'og:description', content: 'Freelance fullstack web developer, UI UX, Jasa Pembuatan Web, Gombong, Kebumen' }]
+    ['meta', { property: 'og:title', content: 'Andri Rahman Hakim / Fullstack Web Developer' }],
+    ['meta', { property: 'og:site_name', content: 'Andri Rahman Hakim / Fullstack Web Developer' }],
+    ['meta', { property: 'og:description', content: 'Fullstack web developer, UI UX, Jasa Pembuatan Web, Gombong, Kebumen' }],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id='+GA_TAG_ID }],
+    ['script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '${GA_TAG_ID}');`
+    ]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -54,7 +65,7 @@ export default defineConfig({
 
     footer: {
       // message: 'Built using <a href="https://vitepress.dev" target="_blank">VitePress</a>',
-      copyright: 'Copyright © 2025 <a href="https://github.com/arhakim" target="_blank">Andri Rahman Hakim</a>'
+      copyright: 'Copyright © '+currentYear+' <a href="https://github.com/arhakim" target="_blank">Andri Rahman Hakim</a>'
     }
   },
   sitemap: {

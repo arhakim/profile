@@ -1,5 +1,9 @@
 # 🚀 Projects
 
+## [Rumah Generasi Unggu](https://rumahgenerasiunggul.com/) - Company Profile Website
+- A company profile website.
+- Role: Freelance Web Developer
+
 ## Learning Management System for Olifant School
 - A platform that has features such as: Manage student data, Student's attendance, Teacher & Staff data, Student's grade, Curriculum - subject - chapter data, and Generate student's report
 - Role: Senior Web Developer at Human Care Consulting

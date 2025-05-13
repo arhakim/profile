@@ -10,7 +10,7 @@
 - Specialized in Management Information Systems
 - Project: "Library Book Borrowing System Management"
 
-## Associate's Degree of Software Engineering - NIIT & Telkom Center, Bandung | 2007
+## Associate's Degree of Software Engineering - NIIT & Telkom Center, Bandung | 2008
 - Graduate with a score of 3.05
 - Developing an application every semester
 - Analyze and research about informatic system every 3 months

@@ -1,3 +1,7 @@
+---
+aside: false
+---
+
 # 📬 Contact
 Let's create something amazing together! Reach out to me at:
 

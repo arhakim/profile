@@ -1,6 +1,6 @@
 # 💼 Experience
 
-## Senior Web Developer - PT. Capture Data Teknologi | April 2021 - April 2024
+## Senior Web Developer - PT. Capture Data Teknologi | April 2021 - April 2025
 - Guide the team in developing features for the Online Assessment Platform, with a focus on boosting user satisfaction and engagement.
 - Work together with teams across functions to ensure a consistent brand experience on all platforms.
 - Ensure regular maintenance of the server and database to optimize platform performance.
