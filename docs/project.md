@@ -1,5 +1,23 @@
 # 🚀 Projects
 
+## Revamp [The Eye Observer](https://theeyeobserver.com) Website
+- Implement new fresh website's looks
+- Update the CMS for the website
+- support on migrating existing data to the new website
+- Role: Freelance Web Developer
+
+## [EzyFitness](https://mindefgym.rmabpo.com/) - MINDEF Gym Management System
+- Build a Booking system to manage gym programmes schedules
+- Role: Freelance Web Developer
+
+## Enhance Agripos System - POS Indonesia
+- Collaborate with TamaTech Dev to enhance inventory feature
+- Role: Freelance Web Developer
+
+## Enhance POKAS System - POS Indonesia
+- Collaborate with TamaTech Dev to enhance: report, cash, and balancesheet feature for Pos Indonesia
+- Role: Freelance Web Developer
+
 ## [Rumah Generasi Unggu](https://rumahgenerasiunggul.com/) - Company Profile Website
 - A company profile website.
 - Role: Freelance Web Developer
