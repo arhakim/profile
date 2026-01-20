@@ -1,8 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 const GA_TAG_ID = 'G-SH0F5PRVDD' // Google Analytics Tracking ID
-const currentDate = new Date()
-const currentYear = currentDate.getFullYear()
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -62,12 +60,7 @@ export default defineConfig({
         link: '/andri_rahman_hakim-resume.pdf',
         ariaLabel: 'Resume (PDF)'
       }
-    ],
-
-    footer: {
-      // message: 'Built using <a href="https://vitepress.dev" target="_blank">VitePress</a>',
-      copyright: 'Copyright © '+currentYear+' <a href="https://github.com/arhakim" target="_blank">Andri Rahman Hakim</a>'
-    }
+    ]
   },
   sitemap: {
     hostname: 'https://ar-hakim.com'
