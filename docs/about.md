@@ -4,10 +4,10 @@ aside: false
 
 # 🗿 Greetings
 
-**Hello! I'm Andri Rahman Hakim, a full stack web developer.** I began my journey in web development with my first project in 2008. I work on both backend and frontend development. My passion is in creating seamless user experiences and visually compelling designs for the web, which resonate with audiences and drive engagement.
+**Hello! I’m Andri**, a full-stack web developer based in Indonesia, specializing in the `PHP Laravel and Vue.js` ecosystem. I bring more than ten years of experience working with startups, growing companies, and international clients across different regions.
 
-As an active web developer, I continuously seek innovative solutions and fresh approaches to problem-solving, driven by my strong desire to learn and grow. 
+Previously, I working as a Senior Web Developer at _PT. Capture Data Teknologi_, where I led a small team in developing and scaling an Online Assessment Platform. In that role, I introduced structured development workflows and coding standards that helped enhance system performance and overall user experience. Prior to that, I spent six years as a freelance developer, partnering with clients from Singapore, India, and various cities in Indonesia, delivering solutions ranging from e-commerce platforms to SaaS products.
 
-I am currently accepting new freelance web development clients and actively seeking opportunities to collaborate. With expertise in creating custom web solutions, I welcome projects of any size—from simple websites to complex applications. I'm passionate about turning client visions into reality and available to discuss how my skills can support your digital needs.
+Over the years, I’ve worked with a wide range of technologies, including PHP frameworks such as Laravel and CodeIgniter, modern JavaScript libraries like Vue.js and React.js, relational databases including MySQL and PostgreSQL, containerization using Docker, and Linux-based server environments. My experience spans multiple sectors—from education and online assessment systems to e-commerce, booking platforms, and financial applications—giving me a strong understanding of end-to-end software development and the specific challenges within each industry.
 
-Feel free to [contact](/contact) if you require a committed, solution-focused professional to enhance your web development needs.
+At my core, I’m a full-stack developer who enjoys turning ideas and requirements into polished, production-ready solutions. My skill set covers the entire development process, from crafting responsive user interfaces and designing scalable backend architectures to optimizing databases, setting up CI/CD pipelines, and integrating advanced system capabilities.

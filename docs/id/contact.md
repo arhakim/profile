@@ -2,8 +2,8 @@
 aside: false
 ---
 
-# 📬 Contact
-Let's create something amazing together! Reach out to me at:
+# 📬 Kontak
+Mari ciptakan sesuatu yang menakjubkan bersama-sama! Hubungi saya di:
 
 - Email: [arhakim.512@gmail.com](mailto:arhakim.512@gmail.com)
 - LinkedIn: [linkedin.com/in/andrirahmanhakim](https://www.linkedin.com/in/andrirahmanhakim)
@@ -13,4 +13,4 @@ Let's create something amazing together! Reach out to me at:
 - Github: [github.com/arhakim](https://github.com/arhakim)
 - Gitlab: [gitlab.com/arhakim](https://gitlab.com/arhakim)
 
-Thanks for stopping by my corner of the internet!
+Terima kasih telah mampir di pojok internet saya!

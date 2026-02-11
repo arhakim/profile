@@ -1,7 +1,8 @@
 <template>
   <div class="custom-footer">
     <p class="copyright">
-      Copyright © {{ currentYear }} <a href="https://github.com/arhakim" target="_blank">Andri Rahman Hakim</a>
+      Copyright © {{ currentYear }} <a href="https://github.com/arhakim" target="_blank">Andri Rahman Hakim</a><br>
+      <a href="/andri_rahman_hakim-resume.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>
     </p>
   </div>
 </template>
@@ -31,7 +32,6 @@ onMounted(() => {
 }
 
 .copyright a {
-  color: var(--vp-c-brand-1);
   text-decoration: none;
   transition: color 0.25s;
 }

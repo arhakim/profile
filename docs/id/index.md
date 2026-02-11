@@ -3,9 +3,8 @@
 layout: home
 
 hero:
-  text: Crafting digital experiences with precision and passion
-  tagline: Full-stack web developer focused on creating reliable, scalable solutions through clean coding practices and user-friendly design.
-
+  text: Merancang Pengalaman Digital Dengan Presisi Dan Passion
+  tagline: Full-stack web developer yang fokus menciptakan solusi yang reliable dan scalable melalui praktik coding yang bersih dan desain yang user-friendly.
   image:
     src: /logo.png
     alt: Arhakim
@@ -16,7 +15,7 @@ hero:
   <AvailabilityBadge />
 </div>
 
-<TechStack title="Experienced using:" />
+<TechStack title="Berpengalaman menggunakan:" />
 
 <script setup>
 import { onBeforeUnmount, onMounted, nextTick } from "vue"
@@ -34,7 +33,7 @@ let timeline
 function VPImageAnimation() {
   let imgContainer = document.querySelector(".VPHome");
   if (!imgContainer) return; // Exit early if not on home page
-  
+
   gsap.set(".VPHome", { perspective: 650 });
   const outerRX = gsap.quickTo(".image-container", "rotationX", { ease: "power3" });
   const outerRY = gsap.quickTo(".image-container", "rotationY", { ease: "power3" });
