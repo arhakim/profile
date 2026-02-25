@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  text: Crafting digital experiences with precision and passion
+  text: Hi 👋 <br>I am Andri.
   tagline: Full-stack web developer focused on creating reliable, scalable solutions through clean coding practices and user-friendly design.
 
   image:
@@ -70,6 +70,11 @@ async function runTextAnimations(){
   const taglineEl = document.querySelector(".tagline");
   if (!heading || !taglineEl) return; // Exit early if not on home page
 
+  // Wrap the wave emoji if it exists
+  if (heading.innerHTML.includes('👋')) {
+    heading.innerHTML = heading.innerHTML.replace('👋', '<span class="wave-emoji">👋</span>');
+  }
+
   if (document?.fonts?.ready) {
     await document.fonts.ready
   }
@@ -113,3 +118,32 @@ onMounted(() => {
   })
 })
 </script>
+
+<style>
+.wave-emoji {
+  display: inline-block;
+  animation: wave 2s ease-in-out infinite;
+  transform-origin: 70% 70%;
+}
+
+@keyframes wave {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  10%, 30% {
+    transform: rotate(14deg);
+  }
+  20%, 40% {
+    transform: rotate(-8deg);
+  }
+  50%, 60% {
+    transform: rotate(14deg);
+  }
+  70%, 80% {
+    transform: rotate(-4deg);
+  }
+  90% {
+    transform: rotate(10deg);
+  }
+}
+</style>
