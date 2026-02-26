@@ -3,15 +3,11 @@
 layout: home
 
 hero:
-  text: Hi 👋 <br>I am Andri.
+  text: Hi, I am Andri 👋
   tagline: Full-stack web developer focused on creating reliable, scalable solutions through clean coding practices and user-friendly design.
-
-  image:
-    src: /logo.png
-    alt: Arhakim
 ---
 
-<div class="flex flex-col lg:flex-row items-center gap-4 mb-10">
+<div class="flex flex-col justify-center items-center gap-4 mb-10">
   <SocialLinks />
   <AvailabilityBadge />
 </div>
@@ -101,7 +97,7 @@ async function runTextAnimations(){
 }
 
 onMounted(() => {
-  VPImageAnimation()
+  // VPImageAnimation()
   runTextAnimations()
 
   router.onBeforeRouteChange = () => {
@@ -120,10 +116,17 @@ onMounted(() => {
 </script>
 
 <style>
+.heading {
+  justify-content: center;
+  align-items: center;
+}
 .wave-emoji {
   display: inline-block;
   animation: wave 2s ease-in-out infinite;
   transform-origin: 70% 70%;
+}
+.tagline {
+  margin: 0 auto;
 }
 
 @keyframes wave {

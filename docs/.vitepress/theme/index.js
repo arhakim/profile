@@ -8,6 +8,7 @@ import TechStack from './components/TechStack.vue'
 import TechStackBadge from './components/TechStackBadge.vue'
 import SocialLinks from './components/SocialLinks.vue'
 import AvailabilityBadge from './components/AvailabilityBadge.vue'
+import AnimatedBackground from './components/AnimatedBackground.vue'
 // import ProjectSwiper from './components/ProjectSwiper.vue'
 import { VpvImageGallery } from '@cynber/vitepress-valence'
 
@@ -19,6 +20,7 @@ export default {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
+      'layout-top': () => h(AnimatedBackground),
       'layout-bottom': () => h(CustomFooter)
     })
   },

@@ -140,6 +140,12 @@ And more than 10 projects when joining the [Neuronworks](https://neuronworks.co.
 
 ---
 <style>
+.vpv-cards-container.gallery-container {
+	backdrop-filter: blur(10px);
+	background-color: unset;
+	border-width: 1px;
+	box-shadow: unset;
+}
 .image-card-square {
 	opacity: 70%;
 }

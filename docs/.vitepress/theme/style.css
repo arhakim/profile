@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @plugin "daisyui" {
   themes: light --default, abyss --prefersdark;
-  include: divider, tooltip, status, swap, textrotate;
+  include: divider, tooltip, status, skeleton, swap, textrotate;
 }
 /**
  * Customize default theme styling by overriding CSS variables:
@@ -85,6 +85,11 @@
  * -------------------------------------------------------------------------- */
 .VPNav .divider {
   display: none;
+}
+.VPNavBar, .VPLocalNav {
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--vp-c-gray-soft);
+  background-color: unset !important;
 }
 
 /**

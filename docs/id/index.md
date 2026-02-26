@@ -3,14 +3,11 @@
 layout: home
 
 hero:
-  text: Hai 👋 <br>Saya Andri.
+  text: Hai, Saya Andri 👋
   tagline: Full-stack web developer yang fokus menciptakan solusi yang reliable dan scalable melalui praktik coding yang bersih dan desain yang user-friendly.
-  image:
-    src: /logo.png
-    alt: Arhakim
 ---
 
-<div class="flex flex-col lg:flex-row items-center gap-4 mb-10">
+<div class="flex flex-col justify-center items-center gap-4 mb-10">
   <SocialLinks />
   <AvailabilityBadge />
 </div>
@@ -100,7 +97,7 @@ async function runTextAnimations(){
 }
 
 onMounted(() => {
-  VPImageAnimation()
+  // VPImageAnimation()
   runTextAnimations()
 
   router.onBeforeRouteChange = () => {
@@ -119,10 +116,17 @@ onMounted(() => {
 </script>
 
 <style>
+.heading {
+  justify-content: center;
+  align-items: center;
+}
 .wave-emoji {
   display: inline-block;
   animation: wave 2s ease-in-out infinite;
   transform-origin: 70% 70%;
+}
+.tagline {
+  margin: 0 auto;
 }
 
 @keyframes wave {

@@ -2,7 +2,11 @@
   <div class="custom-footer">
     <p class="copyright">
       Copyright © {{ currentYear }} <a href="https://github.com/arhakim" target="_blank">Andri Rahman Hakim</a><br>
-      <a href="/andri_rahman_hakim-resume.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>
+      <a href="/andri_rahman_hakim-resume.pdf" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="skeleton skeleton-text font-bold"
+      >Download Resume</a>
     </p>
   </div>
 </template>
@@ -23,6 +27,7 @@ onMounted(() => {
   border-top: 1px solid var(--vp-c-divider);
   padding: 32px;
   text-align: center;
+  backdrop-filter: blur(10px);
 }
 
 .copyright {
